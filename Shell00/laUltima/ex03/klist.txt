@@ -1,0 +1,5 @@
+Credentials cache: API:901DB661-4376-4FEC-B063-975977A33885
+        Principal: bmoran-f@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 30 12:23:15 2019  Sep 30 22:23:15 2019  krbtgt/42MADRID.COM@42MADRID.COM
